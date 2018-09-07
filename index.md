@@ -51,7 +51,7 @@ Experience is a powerful tool in Second Life that has greatly expanded what we t
 
 -	**Performance Bottleneck** - _Experience offers some great possibilities via llCreateKeyValuePair()/llReadKeyValuePair() but this requires a Dataserver response for reading and writing of data which turns this into a trade off of speed vs ease of scripting._
 
-These limitations don't really impact usecases for the likes of full-sims that seek to create a managed user-experience, which appaers to be the intended purpose for Experience.
+These limitations don't really impact usecases for the likes of full-sims that seek to create a managed user-experience, which appears to be the intended purpose for Experience.
 
 However, it does leave more broad brush general purpose cases like your every day SitTP or MapTPs out in the cold and stuck in a groundhog day like experience re-living 2006 scripting every time you use one. They work, but they can be immersion breaking or unintuitive solutions. Something better has been very much needed for a good while.
 
