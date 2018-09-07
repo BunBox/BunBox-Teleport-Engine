@@ -1,5 +1,3 @@
-# Documentation Under Construction
-
 # BunBox Teleport Engine
 ## Introduction
 
@@ -73,7 +71,57 @@ Restrained Life Viewer (RLV) does indeed offer some of this functionality, while
 RLV as a result is simlutaneously overkill for teleportation but at the same time inherently undermined via a chilling effect that comes from the need to balance being open enough for daily use while locked down enough to prevent abuse of the RLV system and not a true native solution.
 Good for bespoke solutions like the nanite system or BDSM sex beds, bad for open general purpose solutions.
 
+# Additional Modules
+
+## Multi-Mode LM Teleporter Script (Free and Included with the Teleporter Engine Box)
+
+The base Teleport engine is free and includes a script with which you can use to make your own teleporters or convert your existing teleporters over to the Teleport Engine.
+
+### Features
+
+-	**Provides Legacy Support** - _Since the Engine is not wide spread as of yet given it's recency, the included teleporter script also does SitTP and MapUI TP while attempting to improve these legacy teleport methods as best as can be done for 2018. The SitTP mode will adjust as needed in its method of operation for destinations over 300m from the teleporter and will automatically determine if the destination is off-sim, switching to MapUI/HUD mode without the user needing to manually do so. SitTP and MapUI Tp modes also provide support for the Engine at the same time, so that you can get the benefit of the Engine while non-engine users can still use your teleporters. (A giver is included with the Teleport Engine and a sign you can use to inform visitors to your land the BunBox Teleport Engine is in use and give them a copy.)_
+
+-	**Access Settings** - _The included teleporter script allows you to restrict access to your teleporter based on Owner only, Group+Owner or Allow all. (Default: Group+Owner)_
+
+- 	**Touch** - _Touch activation can be disabled or a maximum range for activation can be set. (Default: Touch ON, Range NO LIMIT)_
+
+- 	**Collision** - _Collision activation can be disabled or the object can be set to phantom activation. (Default: Collision ON, Phantom OFF)_
+
+-	**HUD -> Sound** - _Toggle SoundOnTP or set a sound to be played on TP by the Engine when using the teleporter by UUID. (Default: Sound ON, UUID 939be5c6-64bb-4f96-4cac-25accfc26177)_
+
+-	**HUD -> Return** - _Toggle ReturnTP allowed/disallowed or change the position ReturnTPrs will land at (Position is set to where you are standing) (Default: Return ON, Return Position OBJECT POSITION+<0,2,0>)_
+
+### Useage
+
+Just drop the script into an object you wish to act as a teleporter and add a Landmark to your destination into the object's contents.  
+Pick which mode the teleporter should work in from the pop up, then you're good to go!  
+Although you can further configure the teleporter from the menu that shows up. (Long click the teleporter to make this re-appear later)
+
+## Random Sim Teleporter Module (L$249 Copy/No Mod/No Trans)
+
+Teleports yourself and all avatars within 5m with matching active group to a random region in Second Life.
+
+### Features
+
+-	**Integrates with Teleport Engine** - _Only the person initiating the teleport requires the module, everyone wearing a Teleport Engine who is within range and has the same active group will be teleported along with you. ReturnTPs are generated as with any other teleporter, allowing your group to easily regroup back at base. No need for additional attachments._
+
+-	**Integrates with Second Life Groups** - _Your active group controls who will be teleported, Use SL groups to form your group of simhoppers._
+
+-	**Bypass Action Mode checks if on land you own.** - _While the Random Sim TPr can be used anywhere, if used on land you own, the Action Mode checks will be bypassed on participants. Try running sim hops out of your own land or maybe even getting a parcel specifically for running a clubhouse for sim hops and storing tokens of your adventures. I promise you it'll make it a lot more fun._
+
+### Useage
+
+Attach the module and make sure participants have the same active group and are within 5m.  
+If you are not on land you own, make sure all participants have Action mode enabled _(This will have to be re-toggled after every teleport.)_
+Click the dice to begin the teleport.  
+Long click the dice (1s or more) to silence messages from the module.  
+Silencing persists between attach/detach and login/logouts.
+
+## API (Coming Soon)
+
+## Clickie Attachment w/Teleporter Support (Coming Soon)
+
 ### Support or Contact
 
 You can find my current in-world store at [Saddlewood](http://maps.secondlife.com/secondlife/Crescent%20Cove/48/42/23)  
-or contact me in-world [BunBoxMomo](secondlife:///app/agent/e7f71980-1671-4a5a-b2d0-cb65e5302fb1/about)
+or contact me in-world [BunBoxMomo](https://my.secondlife.com/bunboxmomo?username=bunboxmomo)
