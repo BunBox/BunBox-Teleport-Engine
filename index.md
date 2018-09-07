@@ -33,7 +33,7 @@ Once processed, the datapacket is then executed if the attached Engine's access 
 
 The datapacket and its in-the-background security is the core feature of the Engine, making it not only easy to use but safe to have attached 24/7 and open enough to be used in a wide range of cases as per the needs of script calling the teleport.
 
-The result is a more immersive user-experience and a new approach to how we do teleports in Second Life (asuming TPEngines become as wide spreas as Animation Overriders).
+The result is a more immersive user-experience and a new approach to how we do teleports in Second Life (asuming TPEngines become as wide spread as Animation Overriders).
 
 
 ## Doesnt this exist already?
