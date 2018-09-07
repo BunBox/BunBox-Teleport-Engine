@@ -1,13 +1,19 @@
+# Documentation Under Construction
+
 ## BunBox Teleport Engine
-### User Guide
+### Introduction
 
-You can use the [editor on GitHub](https://github.com/BunBox/TeleportEngine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for your interest in the BunBox Teleport Engine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site serves as documentation for the Engine, providing explanation of core features, useage in greater detail and example use cases.
 
-### Markdown
+### Purpose: "But what about Experience?..."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Experience is a powerful tool in Second Life that has greatly expanded is doable, but as great a thing it is, it does have some serious limitations.
+
+-	**Paywall** - _Experience exists behind a paywall, requiring Premium to create and compile scripts that use Experience._
+-	**Locked down** - _Experience scripts must be compiled to run with a specific Experience and that specific Experience must be allowed to run on land._
+-	**Performance Bottleneck** - _Experience offers some great possibilities via llCreateKeyValuePair()/llReadKeyValuePair() but this requires a Dataserver response for reading and writing of data which turns this into a trade off of speed vs ease of scripting._
 
 ```markdown
 Syntax highlighted code block
