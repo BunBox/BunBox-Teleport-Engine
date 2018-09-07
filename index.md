@@ -93,9 +93,11 @@ The base Teleport engine is free and includes a script with which you can use to
 
 ### Useage
 
-Just drop the script into an object you wish to act as a teleporter and add a Landmark to your destination into the object's contents.  
-Pick which mode the teleporter should work in from the pop up, then you're good to go!  
-Although you can further configure the teleporter from the menu that shows up. (Long click the teleporter to make this re-appear later)
+- Just drop the script into an object you wish to act as a teleporter and add a Landmark to your destination into the object's contents.  
+
+- Pick which mode the teleporter should work in from the pop up, then you're good to go!  
+
+- Although you can further configure the teleporter from the menu that shows up. _(Long click the teleporter to make this re-appear later)_
 
 ## Random Sim Teleporter Module (L$249 Copy/No Mod/No Trans)
 
@@ -111,11 +113,15 @@ Teleports yourself and all avatars within 5m with matching active group to a ran
 
 ### Useage
 
-Attach the module and make sure participants have the same active group and are within 5m.  
-If you are not on land you own, make sure all participants have Action mode enabled _(This will have to be re-toggled after every teleport.)_
-Click the dice to begin the teleport.  
-Long click the dice (1s or more) to silence messages from the module.  
-Silencing persists between attach/detach and login/logouts.
+- Attach the module and make sure participants have the same active group and are within 5m.  
+
+- If you are not on land you own, make sure all participants have Action mode enabled _(This will have to be re-toggled after every teleport.)_
+
+- Click the dice to begin the teleport.  
+
+- Long click the dice (1s or more) to silence messages from the module.  
+
+- Silencing persists between attach/detach and login/logouts.
 
 ## API (Coming Soon)
 
