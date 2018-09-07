@@ -26,7 +26,7 @@ These parameters include:
 
 -	**Return Data** - _Data about the origin of the teleport inform the Engine if the user is allowed to use the Engine "<<BACK" button to return back to return back to the teleporter. Also included is the specified return landing position set by the owner of the teleporter. These return teleports are one-time consumable TPs which teleport the teleportee back to where they teleported from (Unlike SL's back function which TPs you to the last place you teleported TO). Upon return TP, the ticket is consumed, and teleporters can opt to not allow returnTPs entirely, thus preventing exploiting of the return function in builds or cases where the user should be unable to do so._
 
--	**Message** - _The datapacket can also contain a string message which is communicated to the Engine user via llOwnerSay(); upon teleport. The included teleporter script does now allow for messages and instead this must be called via API._
+-	**Message** - _The datapacket can also contain a string message which is communicated to the Engine user via llOwnerSay(); upon teleport. The included teleporter script does now allow for messages and instead this must be called via API. This choice was made to prevent common teleporters from contributing to the existing barrage of messages we get sent to us in chat as we travel the grid. Some 1st party scripts and 3rd party Scripts using the API will be able to send a message if they so please however. _
 
 ### Execution of the Datapacket
 Once processed, the datapacket is then executed if the attached Engine's access settings (Execute commands from Any/Group+Owner/Owner only) permit it.
