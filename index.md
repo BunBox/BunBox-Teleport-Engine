@@ -44,7 +44,7 @@ Doesn't RLV do this already?
 
 ### Part 1: "But what about Experience?..."
 
-Experience is a powerful tool in Second Life that has greatly expanded is doable, but as great a thing it is, it does have some serious limitations.	
+Experience is a powerful tool in Second Life that has greatly expanded what we think of as possible with LSL, but as great a thing it is, it does have some serious limitations.	
 -	**Paywall** - _Experience exists behind a paywall, requiring Premium to create and compile scripts that use Experience._
 
 -	**Locked down** - _Experience scripts must be compiled to run with a specific Experience and that specific Experience must be allowed to run on land._
