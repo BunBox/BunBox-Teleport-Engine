@@ -123,11 +123,6 @@ Teleports yourself and all avatars within 5m with matching active group to a ran
 
 - Silencing persists between attach/detach and login/logouts.
 
-## API (Coming Soon)
-
-## Clickie Attachment w/Teleporter Support (Coming Soon)
-
 ### Support or Contact
 
-You can find my current in-world store at [Saddlewood](http://maps.secondlife.com/secondlife/Crescent%20Cove/48/42/23)  
-or contact me in-world [BunBoxMomo](https://my.secondlife.com/bunboxmomo?username=bunboxmomo)
+You can contact me in-world [BunBoxMomo](https://my.secondlife.com/bunboxmomo?username=bunboxmomo)
